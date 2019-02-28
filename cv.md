@@ -4,12 +4,12 @@
 ## **PROFILE**
 ### **Date of birth**: 09.02.2000
 ### **Place of birth**: Belarus, Minsk
-I have a strong interest for software developing, analytics and creative projects.
+I have a strong interest for software developing, analytics and creative projects.\
 Always ready to improve my skills to achive goals.
 
 ## **EDUCATION**
 - Belarusian State University
-- Faculty of Radiophysics and Computer Technologies
+- Faculty of Radiophysics and Computer Technologies\
   2017-2022
 
 - Codeacademy "HTML" "CSS"
@@ -17,10 +17,11 @@ Always ready to improve my skills to achive goals.
 - English language (school, SOL courses, IH courses)
 
 ## **SKILLS**
- **C++**     2 / 5
- **Java**    1 / 5
- **Matlab**  2 / 5
- **Git**     1 / 5
+ **C++**     2 / 5\
+ **Java**    1 / 5\
+ **Matlab**  2 / 5\
+ **Git**     1 / 5\
+ for example [code!](https://pastebin.com/WntS1X0H)
  
 ## **PERSONAL QUALITIES**
    - Responsible
@@ -29,3 +30,5 @@ Always ready to improve my skills to achive goals.
    - Ability to take responsibility for yourself
    - Communicative
    - Quick learner 
+
+## **CONTACT**
