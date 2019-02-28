@@ -11,3 +11,18 @@ Always ready to improve my skills to achive goals.
 - Belarusian State University
 - Faculty of Radiophysics and Computer Technologies
 - 2017-2022
+
+## **SKILLS**
+- [x][x][][][] C++
+- [x][][][][] Java
+- [x][x][][][] Matlab
+- [x][][][][] Git
+- [x][x][x][][] English
+
+## **PERSONAL QUALITIES**
+  - Responsible
+  - Stress resistant
+  - Creative thinking
+  - Ability to take responsibility for yourself
+  - Communicative
+  - Quick learner 
