@@ -10,19 +10,22 @@ Always ready to improve my skills to achive goals.
 ## **EDUCATION**
 - Belarusian State University
 - Faculty of Radiophysics and Computer Technologies
-- 2017-2022
+  2017-2022
+
+- Codeacademy "HTML" "CSS"
+
+- English language (school, SOL courses, IH courses)
 
 ## **SKILLS**
-- [x][x][][][] C++
-- [x][][][][] Java
-- [x][x][][][] Matlab
-- [x][][][][] Git
-- [x][x][x][][] English
-
+ **C++**     2 / 5
+ **Java**    1 / 5
+ **Matlab**  2 / 5
+ **Git**     1 / 5
+ 
 ## **PERSONAL QUALITIES**
-  - Responsible
-  - Stress resistant
-  - Creative thinking
-  - Ability to take responsibility for yourself
-  - Communicative
-  - Quick learner 
+   - Responsible
+   - Stress resistant
+   - Creative thinking
+   - Ability to take responsibility for yourself
+   - Communicative
+   - Quick learner 
