@@ -1,19 +1,20 @@
 .background{
     max-width: 1024px;
-    height: 250px;
+    height: 350px;
     padding: 10px; 
     margin: auto;
     background: linear-gradient(to top left, #cdcbd8, rgb(250, 201, 209));
+    border-radius: 7px;
 }
 
 .background_sec{
     max-width: 1024px;
-    height: 1500px;
+    height: 800px;
     padding: 10px; 
     margin: auto;
     background-color: rgba(205, 203, 216, 0.3);
     position: relative;
-    top:-237px;
+    top:-325px;
 }
 
 h1{
@@ -22,7 +23,7 @@ h1{
     font-style: italic;
     text-align: center;
     position: relative;
-    top: -195px;
+    top: -340px;
 }
 
 h2{
@@ -44,7 +45,7 @@ h2{
 .img{
     text-align:center;
     position: relative; 
-    top: -178px;
+    top: -330px;
 }
 
 .contact{
@@ -53,7 +54,8 @@ h2{
     align-items: center;
     justify-content: center;
     position: relative;
-    top: -265px;
+    top: -325px;
+    right: 70px;
 }
 
 .contact a{
@@ -70,7 +72,7 @@ h2{
 }
 
 .contact li{
-    padding-left: 90px;
+    padding-left: 60px;
 }
 
 .about p{
