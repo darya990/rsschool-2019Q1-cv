@@ -1,0 +1,165 @@
+.background{
+    max-width: 1024px;
+    height: 350px;
+    padding: 10px; 
+    margin: auto;
+    background: linear-gradient(to top left, #cdcbd8, rgb(250, 201, 209));
+    border-radius: 7px;
+}
+
+.background_sec{
+    max-width: 1024px;
+    height: 800px;
+    padding: 10px; 
+    margin: auto;
+    background-color: rgba(205, 203, 216, 0.3);
+    position: relative;
+    top:-325px;
+}
+
+h1{
+    font-family: 'Maven Pro', sans-serif;
+    color: rgb(46, 45, 45);
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    top: -340px;
+}
+
+h2{
+    font-family: 'Maven Pro', sans-serif;
+    color: rgb(46, 45, 45);
+    font-style: italic;
+    text-align: left;
+    position: absolute;
+    top: -5px;
+    left: 40px;
+}
+
+.img img{
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+}
+
+.img{
+    text-align:center;
+    position: relative; 
+    top: -330px;
+}
+
+.contact{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -325px;
+    right: 70px;
+}
+
+.contact a{
+    text-decoration: none;
+    color: rgb(46, 45, 45);
+    position: relative;
+    top:-5px;
+}
+
+.contact img{
+    height: 20px;
+    width: 20px;
+    padding-right: 8px;
+}
+
+.contact li{
+    padding-left: 60px;
+}
+
+.about p{
+    margin-top: 55px;
+}
+
+.line1{
+    position: relative;
+    top: -15px;
+    left: 30px;
+    max-width: 970px;
+    border: none; 
+    background-color: #807f7f; 
+    color: #807f7f; 
+    height: 1px; 
+    align-items: center;
+    justify-content: center; 
+}
+
+.education{
+    position: relative;
+    top: -29px;
+    right: 11px;
+}
+
+.education ol{
+    padding-top: 70px;
+    padding-left: 67px;
+}
+
+.line2{
+    position: relative;
+    left: 30px;
+    max-width: 970px;
+    border: none; 
+    background-color: #807f7f; 
+    color: #807f7f; 
+    height: 1px; 
+    align-items: center;
+    justify-content: center; 
+}
+
+.skills{
+    position: relative;
+    top: -40px;
+    right: 11px;
+}
+
+.skills ul{
+    list-style: none;
+    padding-top: 70px;
+    padding-left: 67px;
+}
+
+.line3{
+    position: relative;
+    top:20px;
+    left: 30px;
+    max-width: 970px;
+    border: none; 
+    background-color: #807f7f; 
+    color: #807f7f; 
+    height: 1px; 
+    align-items: center;
+    justify-content: center; 
+}
+
+.qualities{
+    position: relative;
+    top: -30px;
+    right: 11px;
+}
+
+.qualities ul{
+    padding-top: 70px;
+    padding-left: 67px; 
+}
+
+.line4{
+    position: relative;
+    top:20px;
+    left: 30px;
+    max-width: 970px;
+    border: none; 
+    background-color: #807f7f; 
+    color: #807f7f; 
+    height: 1px; 
+    align-items: center;
+    justify-content: center; 
+}
